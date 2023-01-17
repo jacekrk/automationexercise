@@ -1,0 +1,9 @@
+{
+     "baseUrl": "https://automationexercise.com",
+    "includeShadowDom": true,
+    "chromeWebSecurity": true,
+    "viewportHeight": 1080,
+    "viewportWidth": 1920,
+    "video": false,
+    "theme": "dark"
+}

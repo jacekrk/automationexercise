@@ -1,0 +1,21 @@
+{
+  "name": "automationexercise",
+  "version": "1.0.0",
+  "description": "automationexercise automatic tests cypress",
+  "main": "index.js",
+  "scripts": {
+    "open": "npx cypress open",
+    "allUiHeaded": "npx cypress run --browser chrome --spec 'cypress/integration/UI_tests/*.spec.js' --headed",
+    "allUi": "npx cypress run --spec 'cypress/integration/UI_tests/*.spec.js'"
+  },
+  "keywords": [
+    "automationexercise",
+    "cypress"
+  ],
+  "author": "Jacek",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.1",
+    "cypress-dark": "^1.8.3"
+  }
+}

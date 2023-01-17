@@ -1,0 +1,23 @@
+{
+  "name": "John",
+  "lastname": "Kovalsky",
+  "email": "john@janh.com",
+  "password": "admin123",
+  "company": "JKovalsky INC.",
+  "address1": "Freedom st.",
+  "address2": "12/3",
+  "country": "United States",
+  "state": "California",
+  "city": "Los Angeles",
+  "zipcode": "123456",
+  "mobilenumber": "123456789",
+  "file": "cypress/integration/UI_tests/dog.jpeg",
+  "cvc": "123",
+  "card_number": "1234 5678 9012 3456",
+  "expiryMM": "05",
+  "expiryYYYY": "2030",
+  "day": "15",
+  "month": "July",
+  "year": "1991"
+}
+
